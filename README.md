@@ -1,5 +1,5 @@
 # DeltaPnP Server
-[![Build Status](https://travis-ci.org/DeltaTrees/DeltaPnP.svg?branch=master)](https://travis-ci.org/DeltaTrees/DeltaPnP)
+[![Build Status](https://travis-ci.org/DeltaTrees/DeltaPnP.svg?branch=develop)](https://travis-ci.org/DeltaTrees/DeltaPnP)
 
 ## How to run
 ### Server
